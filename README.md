@@ -13,5 +13,7 @@ This imaging technique can inspire me in my design projects to think about how t
 **Coding Technique Choice: p5.js**
 I chose p5.js as the coding tool to help implement this imaging technique. p5.js can achieve color gradients and transparency effects with simple code, simulating similar light and depth effects. In particular, its alpha value adjustment and lerpColor() function can effectively achieve the gradual transparency effect in the image, making the flowers and insects in the picture look more three-dimensional and lightweight.
 
+
+[Link Text](https://openprocessing.org/sketch/1292610)
 [Link Text](https://p5js.org/reference/p5/lerpColor/)
 [Link Text](https://p5js.org/reference/p5.Color/setAlpha/)
