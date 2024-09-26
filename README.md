@@ -2,6 +2,7 @@
 Week8
 ![A image of plants](readme.image/f2de4a8078c4335fcf1e1fd3fbdc595f.jpg)
 ![A image of insects](readme.image/0283dfe7cf77a8fa31589b83e795d8f1.jpg)
+[Link Text](https://www.flickr.com/photos/36903458@N07/9357581281)
 
 **Imaging Technique Choice:** 
 I drew inspiration for my imaging technique from these unique plant and insect photography works. They feature the use of high-contrast colors combined with soft gradation effects, creating a hazy and dreamlike atmosphere. In particular, their transparency and lighting treatment give the impression of floating in the air. 
